@@ -1,0 +1,40 @@
+#sup {
+    color: red;
+}
+div {
+    background-color: white;
+    color: purple;
+}
+#closing{
+    background-color: black;
+    color: white;
+}
+
+button, a {
+    background-color: green;
+    color: red;
+    text-decoration: none;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: lightblue;
+}
+
+#motto {
+    border: inset purple;
+    background-color: red;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#sup {
+    border: 2.5px outset
+}
+
+img.img {
+    border: 1.5px inset;
+    text-align: justify;
+}
