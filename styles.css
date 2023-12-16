@@ -10,17 +10,21 @@ div {
     color: white;
 }
 
-#button, #link {
+#button{
     background-color: green;
     color: white;
-    text-decoration: none;
-    min-width: 150px;
-    min-height: 100px;
+    min-width: 100px;
+    min-height: 50px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
     padding: 5px;
     border-radius: 15px;
+}
+
+#link {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 #button:hover {
