@@ -10,28 +10,6 @@ div {
     color: white;
 }
 
-#button{
-    background-color: green;
-    color: white;
-    min-width: 100px;
-    min-height: 50px;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 5px;
-    border-radius: 15px;
-}
-
-#link {
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-#button:hover {
-    cursor: pointer;
-    background-color: lightblue;
-}
-
 #motto {
     border: inset purple;
     background-color: red;
