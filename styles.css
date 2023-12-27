@@ -21,9 +21,9 @@ div {
     border: 2.5px outset;
 }
 
-img.img {
-    border: 1.5px inset;
-    text-align: justify;
+#img {
+    border: 1.5px solid;
+    justify-content: justify;
 }
 
 #acct {
