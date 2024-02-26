@@ -33,7 +33,7 @@ div {
 
 #headlogo {
     display: flex;
-    float: left;
+    float: right;
 }
 
 h2 {
