@@ -1,5 +1,10 @@
+* {
+    display: flex;
+}
+
 #sup {
-    color: red;
+    background-color: black;
+    color: white;
 }
 div {
     background-color: white;
@@ -32,10 +37,5 @@ div {
 }
 
 #headlogo {
-    display: flex;
     float: right;
-}
-
-h2 {
-    display: flex;
 }
