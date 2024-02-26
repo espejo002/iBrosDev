@@ -30,3 +30,12 @@ div {
     color: red;
     font-weight: bold;
 }
+
+#headlogo {
+    display: flex;
+    float: left;
+}
+
+h2 {
+    display: flex;
+}
