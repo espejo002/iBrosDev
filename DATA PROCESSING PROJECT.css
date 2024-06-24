@@ -1,0 +1,47 @@
+* {
+    font-size: 130%;
+    background-color: black;
+    color: red;
+}
+
+#Opening-container, #introduction, #examples, #components, #terms-used, #uses, #image, #more { 
+    display: none;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+b {
+    background-color: gold;
+    text-align: center;
+    border: 5px inset aliceblue;
+    border-left: 10px solid red;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+dt {
+    margin-top: 3cm;
+    text-decoration: underline;
+}
+
+img {
+    width: 500px;
+    height: 350px;
+    align-self: center;
+}
+
+button {
+    color: white;
+    background-color: darkblue;
+    border-radius: 30%;
+    width: 5cm;
+    text-align: center;
+    margin-left: 45%;
+}
